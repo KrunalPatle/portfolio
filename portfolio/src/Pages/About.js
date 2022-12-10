@@ -44,12 +44,12 @@ const About = () => {
                 <div className={`container-fluid bg-${mode ? 'dark' : 'light'} text-${mode ? 'light' : 'dark  '} `}>
                     <Heading h1="About Me" h2="Know Me More" />
                     <div className="row align-items-center">
-                        <div className="col-7">
+                        <div className="col-lg-7">
                             <h1 data-aos="fade-right">Hi I'm Krunal Patle</h1>
                             <p style={{textAlign:'justify'}}>A budding front end developer with a strong interest in projects that require both conceptual and analytical thinking. I am always eager
                                 to learn from anyone & everyone. I'm looking forward to enhance user's experience & maximizing user interface.</p>
                         </div>
-                        <div className="col-5">
+                        <div className="col-lg-5">
                             <img src="IMAGES/giphy.gif" alt="" width="100%" />
                         </div>
                     </div>
