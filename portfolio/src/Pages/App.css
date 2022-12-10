@@ -1,0 +1,47 @@
+h1{
+    font-weight: bold;
+    font-size:45px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h2{
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h4{
+    font-weight: bold;
+    text-decoration: underline;
+    font-family:  Georgia;
+}
+
+p{
+    font-weight: bold;
+    font-family: system-ui;
+    width: 80%;
+    text-indent: 70px;
+    word-spacing: 3px;
+}
+img{
+    border-radius: 50px;
+    border-style: hidden;
+}
+.icontext{
+    text-decoration: none;
+}
+
+#conth4{
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+a{
+    margin-left: 15px;
+}
+label{
+    font-weight: bold;
+}
+.button{
+    font-weight: bold;
+    font-size: 18px;
+    width: 25%;
+}
