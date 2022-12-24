@@ -21,7 +21,7 @@ const Home = () => {
               <br /><br />
             </div>
             <div className={`col-lg-6 text-${mode ? 'light' : 'dark'}`}>
-              <h1 data-aos="fade-left" >Fornt-End Developer</h1>
+              <h1 data-aos="fade-left" >Front-End Developer</h1>
               <p style={{textAlign:'justify'}}>A front end developer has one general responsibility: to ensure that website visitors can easily interact with the page. They do this through the combination of design,
                 technology and programming to code a website's appearance, as well as taking care of debugging.
               </p>
